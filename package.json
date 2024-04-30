@@ -1,0 +1,20 @@
+{
+  "name": "autoline-bot-by-shuruhatik",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {},
+  "keywords": [],
+  "author": "shuruhatk",
+  "license": "Boost Software License 1.0",
+  "description": "Bot By Shuruhatik#2443",
+  "dependencies": {
+    "chalk-animation": "^2.0.2",
+    "discord.js": "^13.8.0",
+    "express": "^4.18.1",
+    "inquirer": "^8.2.4",
+    "nanospinner": "^1.1.0",
+    "quick.replit": "^1.0.3",
+    "repl.uptime": "^0.0.12",
+    "st.db": "^4.0.7"
+  }
+}
